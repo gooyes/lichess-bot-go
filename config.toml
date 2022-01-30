@@ -1,5 +1,5 @@
-token = "JINmY684XeLHOhQb"                                      # API token for Lichess
-botid = "brainlearn-dolegibot"                                 	# Id of the BOT (account write only in small letters)
+token = "lip_Ozmiai1bIHz1R8M99v0j"                                      # API token for Lichess
+botid = "Page_Is_Not_Found"                                 	# Id of the BOT (account write only in small letters)
 url = "https://lichess.org/api/"                                # URL for Lichess API 
 [engine]
 path = "./engines/stockfishmodern"                # Path to UCI compatible engine "Stockfish"
